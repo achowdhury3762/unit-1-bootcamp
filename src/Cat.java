@@ -9,6 +9,7 @@ public class Cat {
   private Person owner;
 
   public Cat() {
+
   }
 
   public Cat(String name) {
